@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Lorsbach</title>
-    <link>http://example.org/</link>
+    <link>https://uuunk.gihub.io/</link>
     <description>Recent content on Paul Lorsbach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Mar 2020 22:11:05 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://uuunk.gihub.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post - Last Post</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>https://uuunk.gihub.io/posts/first-post/</link>
       <pubDate>Tue, 17 Mar 2020 22:11:05 -0500</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>https://uuunk.gihub.io/posts/first-post/</guid>
       <description>prompt: what I would say to my younger self You haven&amp;rsquo;t broken free yet. You haven&amp;rsquo;t really tried, but it doesn&amp;rsquo;t work like you think it does either. Kicking down barriers, busting through the wall, and running into a the sun will feel great. But once the liberation glow wears off you&amp;rsquo;re just in an an empty field, having to build from scratch, alone.
 That&amp;rsquo;s not to say you won&amp;rsquo;t have adventures with storybook endings.</description>
     </item>
